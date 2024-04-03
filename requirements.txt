@@ -1,0 +1,9 @@
+Flask
+spotipy
+pandas
+gunicorn
+opencv_python_headless
+numpy
+Pillow
+tensorflow
+pandastable
